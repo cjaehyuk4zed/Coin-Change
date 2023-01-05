@@ -12,12 +12,22 @@ and will print the number of each coin required to return as 'change' to the use
 
 
 
-*Example input / output of this program :
+Example input / output of this program :
+
 Enter number of coins : 3
+
 Enter the values of each coin : 10 50 70
+
 Enter the numbers to be calculated : 340 250 650
 
+
 Result :
+
 340 : 10(1) 50(1) 70(4)
+
 250 : 10(0) 50(5) 70(0)
+
 650 : 10(2) 50(0) 70(9)
+
+
+*Need to edit program to be able to calculate unidentified values
